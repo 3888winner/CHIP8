@@ -1,5 +1,7 @@
 # CHIP-8 Interpreter
-CHIP-8 interpreter written in C++., with the possibility of being ported to embedded systems.
+CHIP-8 interpreter written in C++.
+
+Embedded Implementation: https://github.com/3888winner/EmbeddedCHIP-8
 
 ## Compiling
 Requires SDL2 and SDL2_mixer
