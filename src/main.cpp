@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
     CPU cpu = CPU();
     cpu.InitializeMemory();
 
-    cpu.LoadGame("PONG");
+    cpu.LoadGame("roms\\PONG");
 
     bool quit = false;
 
