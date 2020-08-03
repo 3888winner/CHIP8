@@ -1,7 +1,7 @@
 # CHIP-8 Interpreter
 CHIP-8 interpreter written in C++.
 
-Embedded Implementation: https://github.com/3888winner/EmbeddedCHIP-8
+Embedded Implementation: https://github.com/aaxbas/EmbeddedCHIP-8
 
 ## Compiling
 Requires SDL2 and SDL2_mixer
