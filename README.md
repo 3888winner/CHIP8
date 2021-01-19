@@ -1,6 +1,8 @@
 # CHIP-8 Interpreter
 CHIP-8 interpreter written in C++., with the possibility of being ported to embedded systems.
 
+![](docs/images/PONG.png)
+
 ## Compiling
 Requires SDL2 and SDL2_mixer
 
