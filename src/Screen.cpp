@@ -1,5 +1,5 @@
 #include "Screen.hpp"
-#include <SDL2\SDL.h>
+#include "SDL.h"
 #include <iostream>
 
 Screen::Screen(int w, int h, SDL_Color bg, SDL_Color fg)

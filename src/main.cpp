@@ -1,6 +1,6 @@
 #include <iostream>
-#include <SDL2/SDL.h>
-#include <SDL2/SDL_mixer.h>
+#include "SDL.h"
+#include "SDL_mixer.h"
 #include <chrono>
 #include <thread>
 #include "CPU.hpp"
@@ -19,7 +19,7 @@ int main(int argc, char *argv[])
     CPU cpu = CPU();
     cpu.InitializeMemory();
 
-    cpu.LoadGame("roms\\PONG");
+    cpu.LoadGame("../roms/PONG");
 
     bool quit = false;
 
