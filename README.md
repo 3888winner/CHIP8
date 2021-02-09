@@ -20,7 +20,6 @@ Embedded Implementation: https://github.com/aaxbas/EmbeddedCHIP-8
 
 ### Compiling
 __Note: Only tested in Ubuntu 18.04__
-Linux/MacOS
 ```sh
 mkdir build
 cd build
